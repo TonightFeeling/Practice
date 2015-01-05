@@ -229,3 +229,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+Draw/Draw/Properties/AssemblyInfo.cs
+Draw/Draw/Program.cs
+Draw/Draw/Draw.csproj
+Draw/Draw/App.config
+Draw/Draw.sln
