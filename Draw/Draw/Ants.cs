@@ -28,7 +28,7 @@ namespace Draw
             int maxTime = 0;
             foreach (var ant in ants)
             {
-                maxTime +=Math.Max(maxTime, Math.Max(ant, l - ant));
+                maxTime += Math.Max(maxTime, Math.Max(ant, l - ant));
             }
 
         }
